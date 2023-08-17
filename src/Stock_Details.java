@@ -15,7 +15,7 @@ import org.bson.types.ObjectId;
 
 /**
  *
- * @author Utkarsha Kakade
+ * @author Rakshit Chennagiri
  */
 public class Stock_Details extends javax.swing.JFrame {
 
